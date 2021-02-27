@@ -3,10 +3,10 @@
 
 ### I'm a CS Undergrad, Competitive Programmer, and Developer!!
 
-- 🔭 I just launched my first GUI Windows Calculator:
-- 🚀 I’m currently learning & exploring everything
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I just launched my first GUI Windows Calculator.
+- 🚀 I’m currently learning & exploring everything.
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: Mars is also known as the 'Red Planet' because, well, it's red! 
 
 ### Connect with me:
