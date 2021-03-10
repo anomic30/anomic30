@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: Mars is also known as the 'Red Planet' because, well, it's red! 
+- 📫 How to reach me **anomchakravorty3008@gmail.com**
 
 ### Connect with me:
 <a href="https://linkedin.com/in/anomic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anomic" height="30" width="40" /></a>
