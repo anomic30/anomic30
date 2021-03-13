@@ -1,5 +1,6 @@
 ## Hi there, I'm Anom - aka [anomic30]👋
-<img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif">
+<!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/OGeV1rZ.gif">
 
 ### I'm a CS Undergrad, Competitive Programmer, and Developer!!
 
