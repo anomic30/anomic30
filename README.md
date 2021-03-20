@@ -4,12 +4,12 @@
 
 ### I'm a CS Undergrad, Competitive Programmer, and Developer!!
 
---🔭 I just launched my first GUI Windows Calculator.
---🚀 I’m currently learning & exploring Python.
---👯 I’m looking to collaborate with other developers.
---🥅 2021 Goals: Contribute more to Open Source projects.
---⚡ Fun fact: Mars is also known as the 'Red Planet' because, well, it's red! 
---📫 How to reach me **anomchakravorty3008@gmail.com**
+-🔭 I just launched my first GUI Windows Calculator.
+-🚀 I’m currently learning & exploring Python.
+-👯 I’m looking to collaborate with other developers.
+-🥅 2021 Goals: Contribute more to Open Source projects.
+-⚡ Fun fact: Mars is also known as the 'Red Planet' because, well, it's red! 
+-📫 How to reach me **anomchakravorty3008@gmail.com**
 
 ### Connect with me:
 <a href="https://linkedin.com/in/anomic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anomic" height="30" width="40" /></a>
