@@ -1,4 +1,4 @@
-## Hi there, I'm Anom - aka [anomic30]👋
+## Hi, I'm Anom 👋
 <!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
 
