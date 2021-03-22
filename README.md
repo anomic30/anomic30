@@ -1,6 +1,6 @@
 ## Hi, I'm Anom 👋
 <!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
-<img align="right" alt="Coding" width="400" src="https://ezgif.com/images/bg-transparent.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04de2e31234507.564a1d23645bf.gif">
 
 ### I'm a CS Undergrad, Competitive Programmer, and Developer!!
 
