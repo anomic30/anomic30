@@ -1,6 +1,6 @@
 ## Hi, I'm Anom 👋
 <!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04de2e31234507.564a1d23645bf.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F4717-ninja-gifs%3Fpage%3D7&psig=AOvVaw0u3plFAOy2dHAlWrOF_u3t&ust=1617541588421000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCe65GS4u8CFQAAAAAdAAAAABAK">
 
 ### I'm a CS Undergrad, Competitive Programmer, and Developer!!
 
