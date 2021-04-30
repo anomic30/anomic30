@@ -4,7 +4,7 @@
 
 ### I'm a CS Undergrad, Competitive Programmer, and Developer!!
 
-- 🔭 I just launched my first GUI Windows Calculator.
+- 🔭 I just made my first React app.
 - 🚀 I’m currently learning & exploring Python.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
