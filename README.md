@@ -2,7 +2,7 @@
 <!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wQLHB5m4dXJbG/giphy.gif">
 
-### I'm a CS Undergrad, Competitive Programmer, and Developer!!
+### Im a React developer and a competitive programmer.
 
 - 🔭 I just made my first React app.
 - 🚀 I’m currently learning & exploring Python.
