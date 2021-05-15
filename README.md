@@ -1,6 +1,6 @@
 ## Hi, I'm Anom 👋
 <!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wQLHB5m4dXJbG/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cliply.co/wp-content/uploads/2020/03/422003450_404_UFO_400px.gif">
 
 ### Im a React developer and a competitive programmer.
 
