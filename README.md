@@ -5,11 +5,7 @@
 
 ### Im a React developer and a competitive programmer.
 
-- 🔭 I just made my first React app.
-- 🚀 I’m currently learning & exploring Python.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: Mars is also known as the 'Red Planet' because, well, it's red! 
+- “Everyone should know how to code a computer, because it teaches you how to think!” – Steve Jobs
 - 📫 How to reach me **anomchakravorty3008@gmail.com**
 
 ### Connect with me:
