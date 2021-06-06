@@ -19,4 +19,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anomic30&label=Profile%20views&color=0e75b6&style=flat" alt="anomic30" /> </p>
 <br />
 
-- 📫 How to reach me **anomchakravorty3008@gmail.com**.
+- 📫 How to reach me <a hred="mailto:anomchakravorty3008@gmail.com">**anomchakravorty3008@gmail.com**</a>
