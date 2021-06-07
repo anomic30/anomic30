@@ -2,7 +2,8 @@
 ### Im a React developer and a competitive programmer.
 <!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
 <!--<img align="right" alt="Coding" width="400" src="https://cliply.co/wp-content/uploads/2020/03/422003450_404_UFO_400px.gif">-->
-<img align="right" alt="Coding" width="400" src="https://www.animatedimages.org/data/media/34/animated-ufo-image-0041.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://www.animatedimages.org/data/media/34/animated-ufo-image-0041.gif">-->
+<img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif">
 “Everyone should know how to code a computer, because it teaches you how to think!” – Steve Jobs
 
 
