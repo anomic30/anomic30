@@ -21,5 +21,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anomic30&label=Profile%20views&color=0e75b6&style=flat" alt="anomic30" /> </p>
 <br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anomic30&show_icons=true&locale=en" alt="anomic30" /></p>
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anomchakravorty3008@gmail.com">**anomchakravorty3008@gmail.com**</a>
