@@ -26,5 +26,5 @@
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anomchakravorty3008@gmail.com">**anomchakravorty3008@gmail.com**</a>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anomic30&show_icons=true&locale=en" alt="anomic30" width="400"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anomic30&" alt="anomic30" width="400"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anomic30&show_icons=true&locale=en" alt="anomic30" width="45%"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anomic30&" alt="anomic30" width="45%"/></p>
 
