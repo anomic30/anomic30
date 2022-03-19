@@ -1,5 +1,5 @@
-## **Hi, I'm Anom** 👋
-### Im a Full Stack web developer and I love to build cool apps 🚀.
+<img align="center" alt="Header" width="100%" src="https://user-images.githubusercontent.com/63467479/159127663-d4b3bba3-ef56-4ab4-935f-9ef809e04cac.png">
+
 <!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
 <!--<img align="right" alt="Coding" width="400" src="https://cliply.co/wp-content/uploads/2020/03/422003450_404_UFO_400px.gif">-->
 <!--<img align="right" alt="Coding" width="400" src="https://www.animatedimages.org/data/media/34/animated-ufo-image-0041.gif">-->
@@ -7,13 +7,13 @@
 “Everyone should know how to code a computer, because it teaches you how to think!” – Steve Jobs
 <br/>
 
-### **Connect with me:**
+### **Connect with me here:**
 <p align="left">
 <a href="https://linkedin.com/in/anomic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anomic" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anomic30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anomic30" height="30" width="40" /></a>
+<a href="https://twitter.com/anom3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anom3008" height="30" width="40" /></a>
 </p>
 
-### **Languages, Tools & Technologies:**
+### **Languages, Tools & Technologies I know:**
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
@@ -26,6 +26,6 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anomic30&label=Profile%20views&color=0e75b6&style=flat" alt="anomic30" /> </p>
 
-- 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anomchakravorty3008@gmail.com">**anomchakravorty3008@gmail.com**</a>
+- 📫 My Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anomchakravorty3008@gmail.com">**anomchakravorty3008@gmail.com**</a>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anomic30&show_icons=true&locale=en" alt="anomic30" width="46%"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anomic30&" alt="anomic30" width="46%"/></p>
