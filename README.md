@@ -20,9 +20,15 @@
 
 **📫Email:** <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anomchakravorty3008@gmail.com">**anomchakravorty3008@gmail.com**</a>
 
-<div display="flex">
+<details>
+  <summary><b>Github Stats ⚡</b></summary>
+  
+  <div display="flex">
   <img padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=anomic30&show_icons=true&locale=en&theme=react" alt="anomic30" width="49%"/>
   <img padding-right="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=anomic30&theme=react" alt="anomic30" width="49%"/>
-</div>
+  </div>
+</details>
+
+
 
 <!-- <img align="center" alt="anim" width="100%" src="https://user-images.githubusercontent.com/63467479/193647300-0ede6607-a96e-422c-9fd2-3e1e109d8be8.svg"> -->
