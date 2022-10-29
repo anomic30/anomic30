@@ -1,11 +1,11 @@
-<img align="center" alt="Header" width="100%" src="https://user-images.githubusercontent.com/63467479/163677392-9e06fb5f-c86e-4498-a5d0-bf492fa668e6.png">
+<img align="center" alt="Header" width="100%" src="https://user-images.githubusercontent.com/63467479/198850693-42b7d039-eec4-4241-ba82-b2e4bdfa4b43.png">
+
 
 <!--img align="right" alt="Coding" width="400" src="https://jps-werbung.de/images/loader.gif"-->
 <!--<img align="right" alt="Coding" width="400" src="https://cliply.co/wp-content/uploads/2020/03/422003450_404_UFO_400px.gif">-->
 <!--<img align="right" alt="Coding" width="400" src="https://www.animatedimages.org/data/media/34/animated-ufo-image-0041.gif">-->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
-“Everyone should know how to code a computer, because it teaches you how to think!” – Steve Jobs
-<br/>
+
 
 ### **Connect with me here:**
 <p align="left">
