@@ -19,14 +19,13 @@ I'm a passionate developer who likes to build cool stuffs and help people. I enj
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,redux,vite,nodejs,expressjs,bots,mongodb,ipfs,mysql,aws,linux,powershell,bash,git,postman,figma,tailwind,cloudflare&perline=10)](https://skillicons.dev)
 
-<h3 align="left">Github Stats ⚡</h3>
 <!-- <details>
   <summary><b>Github Stats ⚡</b></summary>
 </details> -->
- <div display="flex">
+<!--  <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=anomic30&show_icons=true&locale=en&theme=react" alt="anomic30" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anomic30&theme=react" alt="anomic30" width="50%"/>
- </div>
+ </div> -->
  
 <br />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anomic30&label=Profile%20views&color=0e75b6&style=flat" alt="anomic30" /> </p>
