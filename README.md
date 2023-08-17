@@ -10,7 +10,7 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * **Current Job**: Teaching full stack development to professionals and students at [Crio.do](https://www.crio.do/).
 * **I Speak:** English, Hindi, Bengali, TypeScript, JavaScript, C, C++, and Python.
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
-* **Let's bond over:** Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
+* **Let's bond over:** Football (My idol Messi), Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
 
 #### 💻 Work Experience
 * Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Present)
