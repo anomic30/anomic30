@@ -10,7 +10,7 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * **Current Job**: Teaching full stack development to professionals and students at [Crio.do](https://www.crio.do/).
 * **I Speak:** English, Hindi, Bengali, TypeScript, JavaScript, C, C++, and Python.
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
-* **Let's bond over:** Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories (Secret projects and UFOs).
+* **Let's bond over:** Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
 
 #### 💻 Work Experience
 * Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Present)
@@ -23,6 +23,16 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * [Codz](https://codz.pages.dev) (Feb 2023 - Present) - An AI(GPT 3.5) assisted coding platform for beginners and pros.
 * [Storz](https://storz.pages.dev) (May 2022 - Present) - Opensourced decentralized and encrypted storage solution powered by IPFS.
 * [Codeplay](https://codeplay.pages.dev) (Aug 2022 - Present) - An online code compiler that supports 40+ programming languages.
+
+#### 🛠️ Achievements
+* 🥇 Atlas Madness Hackathon 2023 by Google & MongoDB - Winner of the Grand Prize - Team Lern.
+* 🥇 Web3 Infinity Hackathon 2022 by Filecoin - Winner of the Decentralized Storage Infrastructure Award - Team Storz.
+* 🥈 Appwrite x Dev.to Hackathon 2022 - Runners up - Solo.
+* 🥇 IEM Hacks 2022 - Winner of the Grand Prize - Team Optimisers.
+* 🥈 Ureckathon 2022 - 1st runner-up - Team Optimisers.
+* 🥇 Pasckathon 3.0 Hackathon - Winner of the Grand Prize - Team Optimizers.
+* 🥈 Razorpay FTX Hackathon 2021 - Winner of the 2nd Grand Prize. Team Rixtox.
+* 🥉 GeeksforGeeks Technical Article Writing Competition (GPL 2022) - Won the 3rd prize - Solo.
 
 #### 👀 Where to find me?
 * [Twitter](https://twitter.com/anom3008) - read my learnings in tech, react, ts, and life updates.
