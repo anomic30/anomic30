@@ -12,7 +12,7 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Football (My idol Messi), Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
 
-#### 🛠️ Achievements | Hackathons
+#### 🏆 Achievements | Hackathons
 * 🥇 Atlas Madness Hackathon 2023 by Google & MongoDB - Winner of the Grand Prize - Team Lern.
 * 🥇 Web3 Infinity Hackathon 2022 by Filecoin - Winner of the Decentralized Storage Infrastructure Award - Team Storz.
 * 🥈 Appwrite x Dev.to Hackathon 2022 - Runners up - Solo.
