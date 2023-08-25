@@ -12,19 +12,7 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Football (My idol Messi), Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
 
-#### 💻 Work Experience
-* Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Present)
-* Software Engineer Intern @ Anakin (YC S21) (Jan 2022 - Feb 2022)
-* Software Engineer Intern @ Fleo (Nov 2021 - Jan 2022)
-* Technical Content Writer @ GeeksforGeeks (Aug 2021 - Aug 2022)
-
-#### 🛠️ Relevant Projects
-* [Lern](https://lern.pages.dev) (Jun 2023 - Present) - A platform to learn anything powered by Google Bard.
-* [Codz](https://codz.pages.dev) (Feb 2023 - Present) - An AI(GPT 3.5) assisted coding platform for beginners and pros.
-* [Storz](https://storz.pages.dev) (May 2022 - Present) - Opensourced decentralized and encrypted storage solution powered by IPFS.
-* [Codeplay](https://codeplay.pages.dev) (Aug 2022 - Present) - An online code compiler that supports 40+ programming languages.
-
-#### 🛠️ Achievements
+#### 🛠️ Achievements | Hackathons
 * 🥇 Atlas Madness Hackathon 2023 by Google & MongoDB - Winner of the Grand Prize - Team Lern.
 * 🥇 Web3 Infinity Hackathon 2022 by Filecoin - Winner of the Decentralized Storage Infrastructure Award - Team Storz.
 * 🥈 Appwrite x Dev.to Hackathon 2022 - Runners up - Solo.
@@ -33,6 +21,19 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * 🥇 Pasckathon 3.0 Hackathon - Winner of the Grand Prize - Team Optimizers.
 * 🥈 Razorpay FTX Hackathon 2021 - Winner of the 2nd Grand Prize. Team Rixtox.
 * 🥉 GeeksforGeeks Technical Article Writing Competition (GPL 2022) - Won the 3rd prize - Solo.
+
+#### 🛠️ Relevant Projects
+* [Lern](https://lern.pages.dev) - A platform to learn anything powered by Google Bard.
+* [Codz](https://codz.pages.dev) - An AI(GPT 3.5) assisted coding platform for beginners and pros.
+* [Neuron](https://neuronbot.pages.dev/) - Intelligent Discord bot conversation and generative AI art powered by GPT and Bard.
+* [Storz](https://storz.pages.dev) - Opensourced decentralized and encrypted storage solution powered by IPFS.
+* [Codeplay](https://codeplay.pages.dev) - An online code compiler that supports 40+ programming languages.
+
+#### 💻 Work Experience
+* Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Present)
+* Software Engineer Intern @ Anakin (YC S21) (Jan 2022 - Feb 2022)
+* Software Engineer Intern @ Fleo (Nov 2021 - Jan 2022)
+* Technical Content Writer @ GeeksforGeeks (Aug 2021 - Aug 2022)
 
 #### 👀 Where to find me?
 * [Twitter](https://twitter.com/anom3008) - read my learnings in tech, react, ts, and life updates.
