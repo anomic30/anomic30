@@ -23,7 +23,7 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * 🥉 GeeksforGeeks Technical Article Writing Competition (GPL 2022) - Won the 3rd prize - Solo.
 
 #### 🛠️ Relevant Projects
-* [Lern](https://lern.pages.dev) - A platform to learn anything powered by Google Bard.
+* [Lern](https://lern.pages.dev) - A platform to learn anything powered by Google's PaLM 2 LLM.
 * [Codz](https://codz.pages.dev) - An AI(GPT 3.5) assisted coding platform for beginners and pros.
 * [Neuron](https://neuronbot.pages.dev/) - Intelligent Discord bot conversation and generative AI art powered by GPT and Bard.
 * [Storz](https://storz.pages.dev) - Opensourced decentralized and encrypted storage solution powered by IPFS.
