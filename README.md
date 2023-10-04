@@ -10,7 +10,7 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * **Current Job**: Teaching full stack development to professionals and students at [Crio.do](https://www.crio.do/).
 * **I Speak:** English, Hindi, Bengali, TypeScript, JavaScript, C, C++, and Python.
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
-* **Let's bond over:** Football (My idol Messi), Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
+* **Let's bond over:** Football, Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
 
 #### 🏆 Achievements | Hackathons
 * 🥇 Atlas Madness Hackathon 2023 by Google & MongoDB - Winner of the Grand Prize - Team Lern.
@@ -25,7 +25,7 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 #### 🛠️ Relevant Projects
 * [Lern](https://lern.pages.dev) - A platform to learn anything powered by Google's PaLM 2 LLM.
 * [Codz](https://codz.pages.dev) - An AI(GPT 3.5) assisted coding platform for beginners and pros.
-* [Neuron](https://neuronbot.pages.dev/) - Intelligent Discord bot conversation and generative AI art powered by GPT and Bard.
+* [Neuron](https://neuronbot.pages.dev/) - Intelligent Discord bot conversation and generative AI art powered by GPT and PaLM 2 LLM.
 * [Storz](https://storz.pages.dev) - Opensourced decentralized and encrypted storage solution powered by IPFS.
 * [Codeplay](https://codeplay.pages.dev) - An online code compiler that supports 40+ programming languages.
 
