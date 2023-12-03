@@ -5,9 +5,9 @@
 </div>
 
 ### 👋🏻 About me
-Hi, I'm a full-stack software developer specializing in MERN stack development based in India. I am currently in my final year, pursuing a Bachelor's degree in Computer Science and Engineering. 
+Hi, I'm a full-stack software developer specializing in MERN stack, Generative AI & LLM development based in India. I am currently in my final year, pursuing a Bachelor's degree in Computer Science and Engineering. 
 
-* **Current Job**: Teaching full stack development to professionals and students at [Crio.do](https://www.crio.do/).
+* **Current Job**: Building the future of AI analytics as a full-stack developer at [Saydata](https://saydata.tech/).
 * **I Speak:** English, Hindi, Bengali, TypeScript, JavaScript, C, C++, and Python.
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Football, Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
@@ -30,6 +30,7 @@ Hi, I'm a full-stack software developer specializing in MERN stack development b
 * [Codeplay](https://codeplay.pages.dev) - An online code compiler that supports 40+ programming languages.
 
 #### 💻 Work Experience
+* Full Stack Developer Intern @ Saydata (Nov 2023 - Present)
 * Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Present)
 * Software Engineer Intern @ Anakin (YC S21) (Jan 2022 - Feb 2022)
 * Software Engineer Intern @ Fleo (Nov 2021 - Jan 2022)
