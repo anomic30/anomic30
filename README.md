@@ -5,11 +5,10 @@
 </div>
 
 ### 👋🏻 About me
-Hi, I'm a full-stack software developer specializing in MERN stack, Generative AI & LLM development based in India. I am currently in my final year, pursuing a Bachelor's degree in Computer Science and Engineering. 
+Hi, I'm a software developer specializing in Web Development & Generative AI/LLMs/Tools based in India. I am in my final year pursuing a Bachelor's degree in Computer Science and Engineering.
 
-* **Current Job**: Building the future of AI analytics as a full-stack developer at [Saydata](https://saydata.tech/).
-* **I Speak:** English, Hindi, Bengali, TypeScript, JavaScript, C, C++, and Python.
-* **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
+* **Current Job**: Building [airscale.ai](https://airscale.ai/), a platform to build AI workflows and agents on your data at scale as a full-stack AI developer.
+* **Talk to me about:** Hackathons, Generative AI, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Football, Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
 
 #### 🏆 Achievements | Hackathons
@@ -30,20 +29,20 @@ Hi, I'm a full-stack software developer specializing in MERN stack, Generative A
 * [Codeplay](https://codeplay.pages.dev) - An online code compiler that supports 40+ programming languages.
 
 #### 💻 Work Experience
-* Full Stack Developer Intern @ Saydata (Nov 2023 - Present)
-* Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Present)
+* Full Stack Developer @ Saydata (Nov 2023 - Present)
+* Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Feb 2024)
 * Software Engineer Intern @ Anakin (YC S21) (Jan 2022 - Feb 2022)
 * Software Engineer Intern @ Fleo (Nov 2021 - Jan 2022)
 * Technical Content Writer @ GeeksforGeeks (Aug 2021 - Aug 2022)
 
 #### 👀 Where to find me?
-* [Twitter](https://twitter.com/anom3008) - read my learnings in tech, react, ts, and life updates.
+* [Twitter](https://twitter.com/anom3008) - read my learnings in tech, products, startups, and life updates.
 * [LinkedIn](https://linkedin.com/in/anomic) - to connect one-on-one and career updates.
 * [Email](mailto://anomchakravorty3008@gmail.com) - for detailed queries, collaboration requests, or opportunities.
 * [Technical blogs](https://auth.geeksforgeeks.org/user/anomic30/articles) - for technical guides and articles.
 
 #### 🎯 Tech Stack
 
-* [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,redux,vite,nodejs,expressjs,bots,mongodb,ipfs,mysql,aws,linux,powershell,bash,git,postman,figma,tailwind,cloudflare,vercel&perline=10)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=go,cpp,python,javascript,typescript,html,css,react,nextjs,bun,nodejs,expressjs,bots,mongodb,ipfs,mysql,aws,linux,powershell,bash,git,postman,figma,tailwind,cloudflare,gcp,vercel,docker&perline=10)](https://skillicons.dev)
 
 **📫Email:** <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anomchakravorty3008@gmail.com">**anomchakravorty3008@gmail.com**</a>
