@@ -5,11 +5,10 @@
 </div>
 
 ### 👋🏻 About me
-Hi, I'm a software developer specializing in Web Development & Generative AI/LLMs/Tools based in India. I am in my final year pursuing a Bachelor's degree in Computer Science and Engineering.
-
-* **Current Job**: Building [airscale.ai](https://airscale.ai/), a platform to build AI workflows and agents on your data at scale as a full-stack AI developer.
-* **Talk to me about:** Hackathons, Generative AI, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
-* **Let's bond over:** Football, Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
+Hi, I'm a software developer specializing in Web Development & Generative AI/LLMs/Tools based in India. I recently graduated and received my Bachelor's degree in Computer Science and Engineering.
+* **Current Job**: Building [bitscale.ai](https://bitscale.ai/), a platform to help growth teams build scalable AI workflows.
+* **Talk to me about:** Hackathons, Generative AI, Product Development, UI/UX Design, and Startups.
+* **Let's bond over:** Football, PC Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
 
 #### 🏆 Achievements | Hackathons
 * 🥇 Atlas Madness Hackathon 2023 by Google & MongoDB - Winner of the Grand Prize - Team Lern.
@@ -22,6 +21,7 @@ Hi, I'm a software developer specializing in Web Development & Generative AI/LLM
 * 🥉 GeeksforGeeks Technical Article Writing Competition (GPL 2022) - Won the 3rd prize - Solo.
 
 #### 🛠️ Relevant Projects
+* [Hireout](https://hireout.xyz) - A recruiting platform that replaces the traditional Google form hiring process.
 * [Lern](https://lern.pages.dev) - A platform to learn anything powered by Google's PaLM 2 LLM.
 * [Codz](https://codz.pages.dev) - An AI(GPT 3.5) assisted coding platform for beginners and pros.
 * [Neuron](https://neuronbot.pages.dev/) - Intelligent Discord bot conversation and generative AI art powered by GPT and PaLM 2 LLM.
@@ -29,7 +29,7 @@ Hi, I'm a software developer specializing in Web Development & Generative AI/LLM
 * [Codeplay](https://codeplay.pages.dev) - An online code compiler that supports 40+ programming languages.
 
 #### 💻 Work Experience
-* Full Stack Developer @ Saydata (Nov 2023 - Present)
+* Full Stack Developer @ Bitscale (Nov 2023 - Present)
 * Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Feb 2024)
 * Software Engineer Intern @ Anakin (YC S21) (Jan 2022 - Feb 2022)
 * Software Engineer Intern @ Fleo (Nov 2021 - Jan 2022)
