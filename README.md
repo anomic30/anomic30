@@ -5,8 +5,8 @@
 </div>
 
 ### 👋🏻 About me
-Hi, I'm a software developer specializing in Web Development & Generative AI/LLMs/Tools based in India. I recently graduated and received my Bachelor's degree in Computer Science and Engineering.
-* **Current Job**: Building [bitscale.ai](https://bitscale.ai/), a platform to help growth teams build scalable AI workflows.
+Hi, I'm a software developer specializing in Web Development & Generative AI/LLMs/Tools based in India. I recently graduated and received my Bachelor's in Computer Science and Engineering.
+* **Current Job**: Building AI tools & solutions at [Otherwise AI](https://www.otherwise.company/).
 * **Talk to me about:** Hackathons, Generative AI, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Football, PC Gaming, Music, Anime, Sci-fi Movies, and Conspiracy theories.
 
@@ -29,7 +29,8 @@ Hi, I'm a software developer specializing in Web Development & Generative AI/LLM
 * [Codeplay](https://codeplay.pages.dev) - An online code compiler that supports 40+ programming languages.
 
 #### 💻 Work Experience
-* Full Stack Developer @ Bitscale (Nov 2023 - Present)
+* Software Development Engineer @ OtherwiseAI (Sep 2024 - Present)
+* Full Stack Developer @ Bitscale (Nov 2023 - Aug 2024)
 * Full Stack Development Teaching Assistant @ Crio.Do (Aug 2022 - Feb 2024)
 * Software Engineer Intern @ Anakin (YC S21) (Jan 2022 - Feb 2022)
 * Software Engineer Intern @ Fleo (Nov 2021 - Jan 2022)
